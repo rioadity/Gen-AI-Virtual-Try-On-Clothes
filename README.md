@@ -42,7 +42,7 @@ A cutting-edge, Gen AI-powered virtual try-on web application that enables users
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/Gen-AI-Virtual-Try-On-Clothes.git
+git clone https://github.com/narender-rk10/Gen-AI-Virtual-Try-On-Clothes.git
 cd Gen-AI-Virtual-Try-On-Clothes
 ```
 

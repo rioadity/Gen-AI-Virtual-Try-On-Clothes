@@ -22,6 +22,7 @@ A cutting-edge, Gen AI-powered virtual try-on web application that enables users
 ![Screenshots](./screenshots/s3.png)
 ![Screenshots](./screenshots/s4.png)
 ![Screenshots](./screenshots/s5.png)
+![Screenshots](./screenshots/s6.png)
 
 ---
 

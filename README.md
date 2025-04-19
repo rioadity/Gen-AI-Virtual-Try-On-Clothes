@@ -50,12 +50,8 @@ cd Gen-AI-Virtual-Try-On-Clothes
 
 ```bash
 cd backend
-python -m venv .venv
-source .venv/Scripts/activate  # Windows
-# OR
-source .venv/bin/activate  # Mac/Linux
-
-pip install -r requirements.txt
+poetry install
+poetry shell
 ```
 
 Create a `.env` file and add:

